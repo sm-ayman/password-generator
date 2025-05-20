@@ -1,12 +1,49 @@
-# React + Vite
+# 🔐 WizPass - Smart & Secure Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **WizPass** — your go-to tool for generating secure, reliable, and customizable passwords with just a few clicks. Whether you're safeguarding your accounts or just need a strong key, **WizPass** has you covered.
 
-Currently, two official plugins are available:
+🌐 Live Site: [https://wizpass.netlify.app](https://wizpass.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ **Instant Password Generation**
+- 🔢 Customize **Password Length** (6 to 32 characters)
+- 🔡 Toggle **Numbers** and **Symbols**
+- 📋 One-click **Copy to Clipboard** with success alert
+- 💻 **Responsive Design** (Mobile & Desktop Friendly)
+- 🎨 Built with **React + Tailwind CSS**
+
+---
+
+## 📸 Preview
+
+![WizPass UI Screenshot](https://i.imgur.com/5xCZGWe.png) 
+
+---
+
+## 🚀 Tech Stack
+
+- **React.js** – UI & State Management  
+- **Tailwind CSS** – Styling  
+- **Netlify** – Hosting  
+- **JavaScript** – Logic 
+
+---
+
+## 🔧 How to Use Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/wizpass.git
+   cd wizpass
+   npm install
+   npm run dev
+
+📢 Credits
+Developed with 💙 by Sultan Md. Ayman
+Want to fork or contribute? Go ahead — PRs welcome!
+
+🔗 **Connect with me:**  
+[LinkedIn – Sultan Md. Ayman](https://www.linkedin.com/in/sultan-md-ayman)
