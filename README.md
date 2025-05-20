@@ -19,8 +19,7 @@ Welcome to **WizPass** — your go-to tool for generating secure, reliable, and 
 
 ## 📸 Preview
 
-![WizPass UI Screenshot](![image](https://github.com/user-attachments/assets/81ddb5d9-8f5f-4de0-9afa-96649389cf56)
-) 
+![WizPass UI Screenshot](https://github.com/user-attachments/assets/81ddb5d9-8f5f-4de0-9afa-96649389cf56)
 
 ---
 
